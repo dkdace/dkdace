@@ -2,13 +2,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkdace&count_bg=%23176A98&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# ℹ About me
+# 🔹 About me
 
-- **🎂 1998년 2월 17일생 / INTJ**
+- 🎂 **Birth** : 1998.02.17 / ℹ **MBTI** : INTJ
 
-- **💻 Backend Developer**
+- 💻 **Backend Developer**
 
-- **⛏️ Minecraft Server Dev (DMGR.mcsv.kr) : 2012.12.05 ~ Now**
+- ⛏️ **Minecraft Server Dev** (DMGR.mcsv.kr) : 2012.12.05 ~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdace&show_icons=true)
 
