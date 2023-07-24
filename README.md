@@ -35,7 +35,7 @@
 
 ## 💬 Contacts
 
-![Discord](https://img.shields.io/badge/DarkDace%234671-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/dkdace-%237289DA.svg?style=flat&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/darkdace06@gmail.com-EA4335.svg?style=flat&logo=gmail&logoColor=white)
 ![Naver](https://img.shields.io/badge/darkdace2@naver.com-03C75A.svg?style=flat&logo=naver&logoColor=white)
 
