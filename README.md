@@ -11,7 +11,7 @@
 
 - 💻 **Backend Developer**
 
-- ⛏️ **Minecraft Server Dev** (DMGR.mcsv.kr) : 2012.12.05 ~
+- ⛏️ **Minecraft Server Dev** (DMGR) : 2012.12.05 ~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdace&show_icons=true)
 
