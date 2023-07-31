@@ -7,7 +7,9 @@
 
 # 🔹 About me
 
-- 🎂 **Birth** : 1998.02.17 / ℹ **MBTI** : INTJ
+- 🎂 **Birth** : 1998.02.17
+
+-   ℹ **MBTI** : INTJ
 
 - 💻 **Backend Developer**
 
